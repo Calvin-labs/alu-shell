@@ -1,2 +1,1 @@
-# alu-shell
-ALU shell scripting project
+This repository contains ALU shell scripting projects.
