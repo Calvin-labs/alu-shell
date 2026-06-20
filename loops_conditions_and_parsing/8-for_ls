@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script lists directory contents, showing names after the first dash
+for f in *; do
+	echo "${f#*-}"
+done
